@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/shyamvlmna" target="blank"><img src="https://img.shields.io/twitter/follow/shyamvlmna?logo=twitter&style=for-the-badge" alt="shyamvlmna" /></a> </p>
 
-- 📫 How to reach me **shyamvlmna@gmail.com**
+- 📫**shyamvlmna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shyamvlmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyamvlmna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shyamjithpalakkandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyamjithpalakkandy" height="30" width="40" /></a>
 </p>
 
