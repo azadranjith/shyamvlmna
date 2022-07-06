@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shyamjith</h1>
 <h3 align="center">A passionate developer from India</h3><br>
-<h4> I’m currently mastering the Go programming language</h4>
+<h4 align="center"> I’m currently mastering the Go programming language</h4>
 
 <p align="center">
 <br>
