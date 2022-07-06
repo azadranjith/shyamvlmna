@@ -2,12 +2,10 @@
 <h3 align="center">A passionate Go developer from India</h3>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/shyamvlmna/count.svg" />
+<br>
+<a href="https://www.linkedin.com/in/shyamjithpalakkandy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:shyamvlmna@gmail.com?subject=Hello, Shyamjith"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
-
-<p align="left"> <a href="https://twitter.com/shyamvlmna" target="blank"><img src="https://img.shields.io/twitter/follow/shyamvlmna?logo=twitter&style=for-the-badge" alt="shyamvlmna" /></a> </p>
-
-📫 **shyamvlmna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
