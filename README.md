@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyamjith</h1>
-<h3 align="center">A passionate developer from India</h3><br>
+/*<h3 align="center">A passionate developer from India</h3><br>*/
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shyamjithpalakkandy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
