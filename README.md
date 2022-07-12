@@ -2,8 +2,15 @@
 <!-- <h3 align="center">A passionate developer from India</h3><br> -->
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/shyamjithpalakkandy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
 <a href="mailto:shyamvlmna@gmail.com?subject=Hello, Shyamjith"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+
+<a href="https://instagram.com/shyam_vlmna" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30"/></a>&nbsp;
+  
+<a href="https://twitter.com/shyamvlmna" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30"/></a>
+
 </p>
 
 <h3 align="center">Currently mastering the Go programming language</h3>
@@ -20,7 +27,3 @@
  <p align="center"> <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shyamvlmna&show_icons=true&hide_border=true"/></p>
          <br>
  <p align="center"> <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamvlmna&hide_border=true" /></a></p>
-
- 
-<!-- <p align="center"><img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=shyamvlmna&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="shyamvlmna's Github Stats" width="60%"> -->
-  
