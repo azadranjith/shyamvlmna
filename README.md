@@ -3,10 +3,13 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shyamjithpalakkandy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:shyamvlmna@gmail.com?subject=Hello, Shyamjith"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://instagram.com/shyam_vlmna" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30"/></a>&nbsp;
-<a href="https://twitter.com/shyamvlmna" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30"/></a>
+<a href="https://www.linkedin.com/in/shyamjithpalakkandy/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+   
+<a href="mailto:shyamvlmna@gmail.com?subject=Hello, Shyamjith" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+   
+<a href="https://instagram.com/shyam_vlmna" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+   
+<a href="https://twitter.com/shyamvlmna" target="blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 
 </p>
 
