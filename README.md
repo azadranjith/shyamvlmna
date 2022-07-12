@@ -15,6 +15,13 @@
  <br>
 <p  align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shyamvlmna&show_icons=true&locale=en&layout=compact" alt="shyamvlmna"  width="50%" /></p>
 
+ <p align="center">
+          <a href="https://github.com/shyamvlmna">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shyamvlmna&show_icons=true&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamvlmna&hide_border=true" />
+          </a>
+       </p>
+
 <br> 
 <p align="center"><img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=shyamvlmna&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="shyamvlmna's Github Stats" width="60%">
   
