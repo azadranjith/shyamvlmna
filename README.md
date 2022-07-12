@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyamjith</h1>
 <!-- <h3 align="center">A passionate developer from India</h3><br> -->
 
-<p align="center">
+<span align="center">
 
 <a href="https://www.linkedin.com/in/shyamjithpalakkandy/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
    
@@ -11,7 +11,7 @@
    
 <a href="https://twitter.com/shyamvlmna" target="blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 
-</p>
+</span>
 
 <h3 align="center">Currently mastering the Go programming language</h3>
 <br>
